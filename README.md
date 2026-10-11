@@ -27,7 +27,7 @@ docs/                    Setup_Instructions.md, JVM_Basics.md, Design_Notes.md
 
 ## How to compile and run
 
-You need JDK 17 or newer. Run these commands from the project root folder.
+We need JDK 17 or newer. Run these commands from the project root folder.
 
 **Windows (Command Prompt):**
 ```
@@ -42,7 +42,7 @@ javac -d out $(find src -name "*.java")
 java -cp out com.airtribe.learntrack.Main
 ```
 
-You can also open the project in an IDE (IntelliJ / Eclipse / VS Code), mark `src` as the
+We can also open the project in an IDE (IntelliJ / Eclipse / VS Code), mark `src` as the
 source folder and run `Main.java`.
 
 ## Class diagram
