@@ -2,7 +2,7 @@
 
 ## JDK version used
 
-JDK version: **<FILL IN – run `java -version` and write the version here>**
+JDK version: 17.0.16
 
 ## Steps
 
@@ -21,7 +21,8 @@ JDK version: **<FILL IN – run `java -version` and write the version here>**
    }
    ```
 4. Compile and run it:
-   ```
+   ```<img width="867" height="273" alt="HelloWorld" src="https://github.com/user-attachments/assets/ea492e29-b9d8-433c-8bec-e34cdb8d4517" />
+
    javac HelloWorld.java
    java HelloWorld
    ```
@@ -29,4 +30,4 @@ JDK version: **<FILL IN – run `java -version` and write the version here>**
 
 ## Hello World screenshot
 
-<FILL IN – add a screenshot of your terminal or IDE running Hello World, for example `docs/hello_world.png`, and link it here>
+![Hello World output](HelloWorld.png)
